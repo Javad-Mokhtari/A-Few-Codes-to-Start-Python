@@ -1,6 +1,6 @@
 '''
-مساله ولگشت خودگریز که یک عامل در یک شبکه n*n شروع به جرکت تصادفی در یکی از چهار جهت بالا پایین چپ راست میکند و این کد تعیین میکند در چند درصد مواقع
-عامل به بن بست میرسد. یعنی اگر در یک جهت حرکت کند به نقطه ای که قبلا ملاقات شده می رسد.
+In the random walk problem ٫ we move randomly in one of the four directions up ٫ down ٫ left or right in a n×n network.
+This code specifies the percentage of times the stimulus reaches a dead end.
 '''
 import random
 
