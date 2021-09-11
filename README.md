@@ -35,3 +35,5 @@ Sierpinski triangle is a fractal attractive fixed set with the overall shape of 
 In fractal geometry, the H tree, or T-branching, is a fractal tree structure constructed from perpendicular line segments, each smaller by a factor of the square root of 2 from the next larger adjacent segment. It is so called because its repeating pattern resembles the letter "H". It has Hausdorff dimension 2, and comes arbitrarily close to every point in a rectangle. Its applications include VLSI design and microwave engineering.
 
 
+# Bouncing Ball
+In the bouncing ball code, a ball moves on a square plate with a specified velocity vector and whenever it strikes the walls, returns from the wall at the same angle of impact.
