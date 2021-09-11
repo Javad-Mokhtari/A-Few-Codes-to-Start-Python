@@ -12,7 +12,7 @@ The tower of Hanoi puzzle begins with the disks stacked on one rod in order of d
 1. Only one disk may be moved at a time.
 2. Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack or on an empty rod.
 3. No disk may be placed on top of a disk that is smaller than it.
-With 3 disks, the puzzle can be solved in 7 moves. The minimal number of moves required to solve a Tower of Hanoi puzzle is 2n − 1, where n is the number of disks. In above code, we can see the order in which the disks are moved.
+With 3 disks, the puzzle can be solved in 7 moves. The minimal number of moves required to solve a Tower of Hanoi puzzle is 2^n − 1, where n is the number of disks. In above code, we can see the order in which the disks are moved.
 
 
 # Gray Code
