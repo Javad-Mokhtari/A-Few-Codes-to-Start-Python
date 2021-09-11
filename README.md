@@ -21,3 +21,11 @@ For example, the representation of the decimal value "1" in binary would normall
 Gray codes are widely used to prevent spurious output from electromechanical switches and to facilitate error correction in digital communications such as digital terrestrial television and some cable TV systems.
 
 
+# Chaos Game
+The game on an equilateral triangle with three vertices R, G and B is defined as follows:
+1. We start from one vertex and repeat the next steps n times.
+2. We choose a vertex randomly.
+3. From the beginning to the selected vertex, we walk halfway.
+4. In this place we create a dot in the color of the selected vertex.
+The more times this algorithm is executed, the more complete the resulting image will be and finally the Sierpinski triangle will be seen.
+Sierpinski triangle is a fractal attractive fixed set with the overall shape of an equilateral triangle, subdivided recursively into smaller equilateral triangles. Originally constructed as a curve, this is one of the basic examples of self-similar sets; That is, it is a mathematically generated pattern that is reproducible at any magnification or reduction. It is named after the Polish mathematician Wacław Sierpiński, but appeared as a decorative pattern many centuries before the work of Sierpinski.
