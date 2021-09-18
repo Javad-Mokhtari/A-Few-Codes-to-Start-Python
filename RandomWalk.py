@@ -1,5 +1,4 @@
-'''
-In the random walk problem ٫ we move randomly in one of the four directions up ٫ down ٫ left or right in a n×n network.
+'''In the random walk problem ٫ we move randomly in one of the four directions up ٫ down ٫ left or right in a n×n network.
 This code specifies the percentage of times the stimulus reaches a dead end.
 '''
 import random
