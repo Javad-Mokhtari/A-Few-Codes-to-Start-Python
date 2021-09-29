@@ -3,12 +3,11 @@ This repository includes a few simple examples of functions, algorithms, drawing
 
 
 ## Random Walk Algorithm
-<p align="justify">In mathematics, a random walk is a mathematical object, known as a stochastic or random process, that describes a path that consists of a succession of random steps on some mathematical space such as the integers.</p>
-<p align="justify">In the above code, we move randomly in one of the four directions up ٫ down ٫ left or right in a n×n network and it specifies the percentage of times the stimulus reaches a dead end.
+<p align="justify">In mathematics, a random walk is a mathematical object, known as a stochastic or random process, that describes a path that consists of a succession of random steps on some mathematical space such as the integers. In the above code, we move randomly in one of the four directions up ٫ down ٫ left or right in a n×n network and it specifies the percentage of times the stimulus reaches a dead end.
 </p>
 
 ## Tower of Hanoi Problem
-<p align="justify">The tower of Hanoi puzzle begins with the disks stacked on one rod in order of decreasing size, the smallest at the top, thus approximating a conical shape. The objective of the puzzle is to move the entire stack to the last rod, obeying the following rules:</p></br>
+<p align="justify">The tower of Hanoi puzzle begins with the disks stacked on one rod in order of decreasing size, the smallest at the top, thus approximating a conical shape. The objective of the puzzle is to move the entire stack to the last rod, obeying the following rules:</p>
 1. Only one disk may be moved at a time.</br>
 2. Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack or on an empty rod.</br>
 3. No disk may be placed on top of a disk that is smaller than it.</br>
