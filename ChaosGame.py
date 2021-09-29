@@ -20,11 +20,9 @@ def chaos():
     turtle.dot(5, 'blue')
     turtle.setposition(e, f)
     turtle.dot(5, 'green')
-    turtle.exitonclick()
 
     for i in range(n):
         rnd = random.randrange(1, 4)
-        pos = turtle.position()
         if rnd == 1:
             x = (turtle.xcor() + a) / 2.0
             y = (turtle.ycor() + b) / 2.0
