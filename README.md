@@ -33,7 +33,7 @@ The game on an equilateral triangle with three vertices R, G and B is defined as
 Sierpinski triangle is a fractal attractive fixed set with the overall shape of an equilateral triangle, subdivided recursively into smaller equilateral triangles. Originally constructed as a curve, this is one of the basic examples of self-similar sets; That is, it is a mathematically generated pattern that is reproducible at any magnification or reduction. It is named after the Polish mathematician Wacław Sierpiński, but appeared as a decorative pattern many centuries before the work of Sierpinski.
 </p>
 
-# Percolation-Problem
+# 7. Percolation-Problem
 ## Introduction
 <p align="justify">
 Now, we explain the percolation problem and try to implement it with Python step by step. In statistical physics and mathematics, percolation theory describes the behavior of a network when nodes or links are added. This is a geometric type of phase transition, since at a critical fraction of addition the network of small, disconnected clusters merge into significantly larger connected, so-called spanning cluster. The applications of percolation theory to materials science and in many other disciplines are discussed in the articles network theory and percolation.
