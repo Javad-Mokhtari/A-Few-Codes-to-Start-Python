@@ -1,5 +1,4 @@
 def gray_code(n):
-
     if n == 0:
         return ['']
     code1 = gray_code(n - 1)
@@ -12,9 +11,10 @@ def gray_code(n):
 
 
 def main():
-
     num = int(input('Please enter number of bits:'))
-    print(gray_code(num))
+    graycode_list = gray_code(num)
+    for i in range(len(graycode_list)):
+        print(graycode_list[i])
 
 
 if __name__ == "__main__":
